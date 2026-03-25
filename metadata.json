@@ -1,0 +1,5 @@
+{
+  "name": "BulkCut",
+  "description": "A refined nutrition tracker with AI-powered meal analysis and strategic progress tracking.",
+  "requestFramePermissions": ["camera"]
+}
